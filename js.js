@@ -62,3 +62,21 @@
 //alan ye log begiri 2 tash tagir karde ma fagat 
 //mikhayim yekishoon tagir koneh
 //____________________________________________________
+
+
+//---------------------------------
+
+let result=Math.round(2.9)
+
+console.log(result);
+//be adade bala tar rondesh mikoneh
+//=================================
+let d=Math.ceil(2.8);
+console.log(result);
+// ceil kari nadareh addadet chiyeh kolan be samteh bala rondesh mikoneh
+//________________
+
+//be samteh payin rondesh mikoneh
+let w =Math.floor(2.3);
+console.log(w);
+//-----------------------------------
