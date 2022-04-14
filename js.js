@@ -135,6 +135,14 @@ let b ="shervin nj";
 result=b.replace("shervin","asghar")
 console.log(result);
 //=======================================
+//way to find out the name is exits or not
+
+let o="shervin nj";
+result=o.includes("asghr");
+console.log(result);
+
+
+//++++++++++++++++++++++++++++++++++++++
 
 
 
