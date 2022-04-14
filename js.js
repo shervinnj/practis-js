@@ -127,3 +127,14 @@ let asm="hello my name is shervin";
 
 result=asm.split(" ");
 console.log(result);
+//+++++++++++++++++++++++++++++++++
+
+//tavize string ba asrefate an method replace//
+let b ="shervin nj";
+
+result=b.replace("shervin","asghar")
+console.log(result);
+//=======================================
+
+
+
