@@ -80,3 +80,12 @@ console.log(result);
 let w =Math.floor(2.3);
 console.log(w);
 //-----------------------------------
+let a=Math.abs(-2.7);
+console.log(a);
+//har addadi manfi bashe mosbatesh mikoneh
+
+//__________________________
+//ye add random beyneh 0 ta 19 bara man peyda kon
+
+let r=Math.floor(Math.random()*20)
+console.log(r);
