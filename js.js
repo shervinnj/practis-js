@@ -106,3 +106,13 @@ jam=`hello my name is ${name}and my last nam is ${lastname}and my age is ${age}a
 
 //dar mesale bala ma az kelide payine esc astefadeh kardim
 //=========================================================
+
+//tabdil string be horoofe kochik
+
+let firstName="sherVin Nj"
+result=firstName.toLowerCase();
+console.log(result);
+
+// make sure put () cuz they method type
+
+//=====================
