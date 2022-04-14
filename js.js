@@ -123,3 +123,7 @@ let frstName="shervin nj"
 result =firstName.indexOf("h")
 console.log(result);
 //++++++++++++++++++++++++++++++++++++
+let asm="hello my name is shervin";
+
+result=asm.split(" ");
+console.log(result);
