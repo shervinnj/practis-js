@@ -141,8 +141,15 @@ let o="shervin nj";
 result=o.includes("asghr");
 console.log(result);
 
-
+//-----ba tru ya false javab mideh
 //++++++++++++++++++++++++++++++++++++++
+
+// < //kochiktar ya bozorgtar
+// !=mokhalef//
+// !== mokhalef va ham type nist
+// == mogayeseh hastan ya na
+// === mosavi y ahamtype //
+
 
 
 
