@@ -116,3 +116,10 @@ console.log(result);
 // make sure put () cuz they method type
 
 //=====================
+
+//=find index of string
+let frstName="shervin nj"
+
+result =firstName.indexOf("h")
+console.log(result);
+//++++++++++++++++++++++++++++++++++++
