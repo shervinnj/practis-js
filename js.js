@@ -89,3 +89,20 @@ console.log(a);
 
 let r=Math.floor(Math.random()*20)
 console.log(r);
+//________________________________________
+
+let jam;
+let name="shervin";
+let lastname="nj";
+let age=20;
+let job="web developer";
+
+jam="hello may name is "+name+" and may last name is"+lastname+
+"and my age is " +age+" and i work as "+job;
+console.log(jam);
+
+//===== ya
+jam=`hello my name is ${name}and my last nam is ${lastname}and my age is ${age}and i work as ${job}`;
+
+//dar mesale bala ma az kelide payine esc astefadeh kardim
+//=========================================================
