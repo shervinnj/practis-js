@@ -152,4 +152,63 @@ console.log(result);
 
 
 
+//+++++++++++++++++++++++++++++++++
+
+let shomare=7;
+
+if (shomare>1){
+    console.log("add bozorgtar");
+
+}else{
+    console.log("kochiktar");
+}
+
+//dastorateh sharti if or else if
+//++++++++++++++++++++++++++++++++++++++++
+let isRich=true;
+let isKind=true;
+
+if(isRich && isKind){
+    console.log("its ok");
+}
+//+++++++++++  OR +++++++++++++
+ isRich=true;
+ isKind=false;
+
+if(isRich || isKind){
+    console.log("its ok");
+}
+
+
+// dar dastooreh ya yek shart mohemeh
+//+++++++++++++++++++++++++++++++
+
+//=============== OR++++++++++++++
+
+isRich=5;
+isKind="5";
+
+if(isRich===isKind){
+    console.log("its okk");
+}
+//dar dastoreh balah sahih nist chon yeki numbereh va digari string
+//++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
