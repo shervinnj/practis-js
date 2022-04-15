@@ -329,7 +329,14 @@ console.log(`${pk} : ${pers[pk]}`);
 //estede az in dastoor barayeh dastresi be object arry
 //ba estefadeh az halghey for
 
+//++++++++++++ OR ++++++
 
+let nu=[1,2,3,4,5,7];
+for(let w in nu){
+    console.log(`${w}:${nu[w]}`);
+}
+
+//+++++++++++++++++++++++++++++++++
 
 
 
