@@ -378,6 +378,10 @@ console.log(arryes);
 //albateh be akharesh
 //+++++++++++++++++++++++++++
 
+let arrye=[1,2,3,4,5,6,7,8];
+arrye.unshift(20);
+console.log(arrye);
+
 
 
 
