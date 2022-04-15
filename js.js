@@ -275,7 +275,12 @@ i++
 // 0 baramoon bad chap kon
 
 
-
+    for(let i=0;i<=20;i++){
+        if(i%2==0){
+            console.log(i);
+        }
+    }
+    //inja hamoon kari ke ba halghe while kardim mitonim ba i anjam bedim
 
 
 
