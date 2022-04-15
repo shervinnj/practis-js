@@ -254,6 +254,37 @@ catch(o){
 }
 //======================================
 
+i=0;
+while(i<5){
+    console.log(i);
+    i++
+}
+
+//dar in mesal har vaght i kochiktar az
+//5 bood ba dastooreh i++ yeki behesh
+//ezafe kon
+
+//++++++++OR++++++++++
+while(i<=20){
+    if(i%2==0){
+        console.log(i);
+    }
+i++
+}
+//bagi moondeh tagsim bareh 2 beshe 
+// 0 baramoon bad chap kon
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
