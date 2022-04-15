@@ -367,8 +367,16 @@ console.log(mm);
 
 // sakhte new array ba estefadeh az
 // new Array
+//+++++++++++++++++++++++++++
 
 
+let arryes=[1,2,3,4,5,6,7,8]
+arryes.push(150);
+console.log(arryes);
+
+// ba estefade az dastooreh push() mitoonim be array harchi ezafe konim 
+//albateh be akharesh
+//+++++++++++++++++++++++++++
 
 
 
