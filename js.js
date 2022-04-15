@@ -393,6 +393,18 @@ console.log(arryee);
 // ba estefadeh az dastooreh pop() 
 // akharin kalameh arry mitoonim pak konim
 //+++++++++++++++++++++++++++++++
+let arryeee=[1,2,3,4,5,6,7,8];
+
+arryeee.shift();
+console.log(arryeee);
+
+//ba dastooreh shift avalin syntax array miyad 
+//hazf mikoneh
+//+++++++++++++++++++
+
+//==============================
+
+
 
 
 
