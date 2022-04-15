@@ -347,6 +347,18 @@ function myFunction(){
 }
 myFunction();
 // estefadeh az let or var
+//+++++++++++++++++++++++++++++++
+for(let i=0;i<10;i++){
+    if(i==7){
+        break;
+    }else if(i==2){
+        continue;
+    }
+    console.log(i);
+}
+// astefade az break kolan badesho hazf mikone
+//va continue faghat yekisho hazf mikone va badesho chap mikone
+
 
 
 
