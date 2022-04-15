@@ -280,7 +280,23 @@ i++
             console.log(i);
         }
     }
-    //inja hamoon kari ke ba halghe while kardim mitonim ba i anjam bedim
+    //inja hamoon kari ke ba halghe
+    // while kardim mitonim ba i anjam bedim
+
+    //+++++++++++++++++++++++++++++++++++++
+    let num=[1,5,8,9,4,21,58];
+
+    for(let i=0;i<num.length;i++){
+        if(num[i]==21){
+            console.log(i);
+        }
+    }
+    //medaleh bala intori ke begard
+    //bebin 21 dara arry vojood dareh 
+    //agar dareh andisesho type kon
+
+//=============================
+
 
 
 
