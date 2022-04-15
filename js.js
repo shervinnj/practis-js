@@ -360,6 +360,15 @@ for(let i=0;i<10;i++){
 //va continue faghat yekisho hazf mikone va badesho chap mikone
 
 
+let temp=[1,2,3,4,5];
+let mm=new Array(6,7,8,9);
+
+console.log(mm);
+
+// sakhte new array ba estefadeh az
+// new Array
+
+
 
 
 
