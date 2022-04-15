@@ -195,6 +195,36 @@ if(isRich===isKind){
 //++++++++++++++++++++++
 
 
+let number=4;
+
+switch(number){
+
+case 1:{
+console.log("one is okay");
+break;
+
+}
+case 2:{
+
+console.log("two is okay");
+break;
+
+}
+
+case 3:{
+    console.log("three is okay");
+    break;
+}
+
+default:{
+console.log("yek add vared kon beyne 1-4");
+break;
+}
+}
+
+
+
+
 
 
 
