@@ -382,6 +382,19 @@ let arrye=[1,2,3,4,5,6,7,8];
 arrye.unshift(20);
 console.log(arrye);
 
+//ba estefadeh az dastooreh unshift be avaleh arry mitoonim
+//chizi add konim
+//+++++++++++++++++++++++++++++++++
+let arryee=[1,2,3,4,5,6,7,8];
+
+arryee.pop();
+console.log(arryee);
+
+// ba estefadeh az dastooreh pop() 
+// akharin kalameh arry mitoonim pak konim
+//+++++++++++++++++++++++++++++++
+
+
 
 
 
