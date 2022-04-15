@@ -221,7 +221,38 @@ console.log("yek add vared kon beyne 1-4");
 break;
 }
 }
+//+++++++++++++++++++++++++++++++++++++++++
 
+
+try{
+    let result;
+    result= 5+2;
+    console.log(sum);
+}
+catch(e){
+console.log(e.message);
+
+}
+//dastooreh bala ma ye varible neveshtai, 
+//be asme result vali goftim sum chap kon
+//ba in dastoor app crash nemishe error to
+//syntax be ma neshon mideh 
+
+
+//+++++++++++ MOHEM or ++++++++++++++
+
+try{
+let g;
+g=2+3;
+console.log(nn);
+
+
+}
+catch(o){
+    console.log(o.message);
+
+}
+//======================================
 
 
 
