@@ -338,6 +338,16 @@ for(let w in nu){
 
 //+++++++++++++++++++++++++++++++++
 
+function myFunction(){
+    if(true){
+        var color="blue";
+        
+    }
+    console.log(color);
+}
+myFunction();
+// estefadeh az let or var
+
 
 
 
