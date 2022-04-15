@@ -297,7 +297,37 @@ i++
 
 //=============================
 
+let arraye=[1,5,8,9,7,6];
+for(array of arraye){
+    console.log(array);
+}
 
+//inja shomareha ro az arry kharej kadim
+//===== or =====
+
+
+let p=[1,5,9,8,7]
+for(let l of p){
+    if(l==8){
+        console.log(`${l} found`);
+    }
+
+}
+
+
+
+let pers={
+
+name:"shervin",
+age:25
+
+};
+pers.email="nj";
+for(let pk in pers){
+console.log(`${pk} : ${pers[pk]}`);
+}
+//estede az in dastoor barayeh dastresi be object arry
+//ba estefadeh az halghey for
 
 
 
