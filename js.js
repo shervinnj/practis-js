@@ -404,6 +404,16 @@ console.log(arryeee);
 
 //==============================
 
+let arye=[1,2,3,4,5,6,7,8];
+arye.splice(2,0,20);
+console.log(arye);
+
+//to dastore splice 3 ta syntex (,,,)migire
+// avali barayeh chandomin arrye 
+//dovomio mizarim 0 yani to hamoon jaygah ya agar add dige bezarim hamasho pak mikone
+// bad addi ke garar midimo mizarim
+
+
 
 
 
