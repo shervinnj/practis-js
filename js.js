@@ -422,6 +422,14 @@ console.log(aw);
 // to in mesal man alan 2 hazf kardam
 // syntax 1 va 1 hazf kardam
 
+let so=[1,2,3];
+let pt=[4,5,6];
+
+let rek=so.concat(pt)
+console.log(rek);
+//ma dar mesaleh bala 2 array be ham vasl kardim
+//va dar motaghireh rek rikhtim 
+
 
 
 
