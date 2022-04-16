@@ -431,16 +431,21 @@ console.log(rek);
 //va dar motaghireh rek rikhtim 
 //+++++++++++++++++++++++++++++++++
 
-let kl=[8,9,10,5,7,2,94];
-let yo=kl.sort(function(x,y){
-return x-y
-});
+let kl=[0,8,9,-1,10,5,7,2,94];
+let yo=kl.sort((x,y)=>x-y);
 console.log(yo);
 
 // ba estefadeh az dastoreh sort ma omadim ye function
 //neveshtim ta addhamoon dar array moratab beshan.
 
-
+yo=kl.filter(function(number){
+    return number>0;
+});
+console.log(yo);
+// ba estefade az filter ma ye function 
+//tarif kardim ke yek parameter migireh
+//va mighim ke haar numberi ke bozorgtar
+//az 0 boodo bara ma chap kon
 
 
 
