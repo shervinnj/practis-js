@@ -413,6 +413,15 @@ console.log(arye);
 //dovomio mizarim 0 yani to hamoon jaygah ya agar add dige bezarim hamasho pak mikone
 // bad addi ke garar midimo mizarim
 
+//+++++++++++++++++++++++++++++++++++++++++
+let aw=[1,2,3,4,5,6];
+
+aw.splice(1,1)
+console.log(aw);
+
+// to in mesal man alan 2 hazf kardam
+// syntax 1 va 1 hazf kardam
+
 
 
 
