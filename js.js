@@ -421,7 +421,7 @@ console.log(aw);
 
 // to in mesal man alan 2 hazf kardam
 // syntax 1 va 1 hazf kardam
-
+//+++++++++++++++++++++++++++++++++++++
 let so=[1,2,3];
 let pt=[4,5,6];
 
@@ -429,8 +429,16 @@ let rek=so.concat(pt)
 console.log(rek);
 //ma dar mesaleh bala 2 array be ham vasl kardim
 //va dar motaghireh rek rikhtim 
+//+++++++++++++++++++++++++++++++++
 
+let kl=[8,9,10,5,7,2,94];
+let yo=kl.sort(function(x,y){
+return x-y
+});
+console.log(yo);
 
+// ba estefadeh az dastoreh sort ma omadim ye function
+//neveshtim ta addhamoon dar array moratab beshan.
 
 
 
